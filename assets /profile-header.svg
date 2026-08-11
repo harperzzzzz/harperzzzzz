@@ -1,0 +1,37 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1200" height="220" fill="#0E241D"/>
+
+  <text
+    x="600"
+    y="78"
+    text-anchor="middle"
+    fill="#F4F7F5"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="42"
+    font-weight="700">
+    YU CHEN
+  </text>
+
+  <line
+    x1="455"
+    y1="108"
+    x2="745"
+    y2="108"
+    stroke="#6F8F82"
+    stroke-width="1"
+    opacity="0.75"/>
+
+  <text
+    x="600"
+    y="154"
+    text-anchor="middle"
+    fill="#F4F7F5"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="19"
+    font-weight="600">
+    Java Backend Developer
+  </text>
+
+</svg>
