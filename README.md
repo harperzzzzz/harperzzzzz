@@ -1,8 +1,8 @@
 <div align="center">
 
-# YU CHEN
-
-### Java Backend Developer
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" />
+</p>
 
 <br>
 
@@ -22,9 +22,7 @@
 
 ## 01 / ABOUT
 
-我是一名專注於累積全端開發能力並持續迭代學習AI應用的開發者，具備AWS Certified Cloud Practitioner證照，擅長在不同領域找出邏輯。
-<br>
-目前以 **Java / Spring Boot 後端開發**為主要方向，持續累積 REST API、關聯式資料庫、第三方服務整合與系統流程實作經驗。
+我是一名專注於累積全端開發能力並持續迭代學習AI應用的開發者，具備AWS Certified Cloud Practitioner證照，以 **Java / Spring Boot 後端開發**為主要方向，持續累積 RESTful API、關聯式資料庫、第三方服務整合與系統流程實作經驗。
 
 
 ---
@@ -41,45 +39,69 @@
 
 | Area | Technologies |
 |---|---|
-| Backend | Java · Spring Boot · JPA/Hibernate · Spring Security · RESTful API  |
-| Database | PostgreSQL · MySQL · SQL |
+| Backend | Java · Spring Boot · JPA/Hibernate  · RESTful API  |
+| Database | PostgreSQL · SQL |
 | Frontend | JavaScript · HTML · CSS · Vite |
 | Cloud / DevOps | GCP · AWS · Docker · Git · GitHub |
-| Integration | Firebase · ECPay · LINE Messaging API · n8n · VS Code · Eclipse  |
+| Integration | Firebase · ECPay · LINE Messaging API · n8n  |
+| Tools | IntelliJ IDEA · VS Code · Eclipse · Postman |
 
 ## 03 / Featured Project
 
-### Yuruicamp
-
-露營商城 × 營地預約 × 裝備租借的一站式服務平台。
+### Yuruicamp | 露營商城 × 營地預約 × 裝備租借的整合平台。
 
 `Java 25 ` `Spring Boot 4.1.0` `PostgreSQL 16` `JavaScript` `Firebase` `ECPay` `n8n`
 
 [View Project →](https://github.com/harperzzzzz/Yuruicamp)
 
-主要負責營地預約頁面與n8n自動化串接，並有fork分支實作綠界金流串接成功回呼
-連結：[harperzzzzz/Yuruicamp @ payment 分支](https://github.com/harperzzzzz/Yuruicamp/tree/payment)
+**My Contributions**
+
+- 營地預約與裝備租借系統
+- 建置 LINE × n8n 自動化窗口 Workflow
+- 於個人 Fork 的 `ECPAY/payment` branch 實作 ECPay 金流串接與付款成功回呼
+
+[View Payment Implementation →](https://github.com/harperzzzzz/Yuruicamp/tree/ECPAY/payment)
+
 
 ---
 
 ## 04 / Currently Learning
 
-full_stack:
-  - Java and Spring Boot backend development
-  - Javascript frontend development
-  - Designing RESTful APIs, PostgreSQL, testing
+application_development
 
-ai_agent_collaboration:
-  - Spec-driven workflows for coding agents — turning requirements into specs
-    and independently verifiable tasks before implementation starts
-  - Authoring reusable "skills" (structured instructions) for coding agents,
-    instead of repeating the same context in every prompt
-  - Hands-on use of agentic CLI tools (Claude Code) in real feature work
+- Building backend services with Java and Spring Boot
+- Integrating frontend features with JavaScript
+- Designing RESTful APIs and working with PostgreSQL
+- Learning testing and deployment practices
+
+ai_agent_collaboration
+
+- Learning spec-driven workflows for coding agents, from requirements to structured implementation tasks
+- Exploring reusable skills and structured instructions for coding agents
+- Practicing agent-assisted development with tools such as Claude Code
+- Building better habits around reviewing, validating, and understanding AI-generated code
 ---
 
 ## 05 / CONTACT
 
+<p align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:uzen108jfmail@gmail.com)
+<a href="mailto:uzen108jfmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-173A2F?style=for-the-badge&logo=gmail&logoColor=CFE3D6" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harperzzzzz)
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-173A2F?style=for-the-badge&logo=linkedin&logoColor=CFE3D6" />
+</a>
+
+<a href="https://github.com/harperzzzzz">
+  <img src="https://img.shields.io/badge/GitHub-173A2F?style=for-the-badge&logo=github&logoColor=CFE3D6" />
+</a>
+
+</p>
+---
+<div align="center">
+
+<i>Keep exploring. Build deliberately.</i>
+
+</div>
