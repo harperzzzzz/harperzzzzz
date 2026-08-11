@@ -2,17 +2,15 @@
 
 <p align="center">
   <img src="./assets/profile-header.svg" width="100%" />
+  <a href="https://github.com/harperzzzzz/Yuruicamp">
+    <img src="https://img.shields.io/badge/FEATURED%20PROJECT-YURUICAMP-10261F?style=for-the-badge&labelColor=29443A&color=10261F&logoColor=F4F7F5" />
+  </a>
+
+  <a href="https://github.com/harperzzzzz">
+    <img src="https://img.shields.io/badge/GITHUB-HARPERZZZZZ-10261F?style=for-the-badge&labelColor=29443A&color=10261F&logo=github&logoColor=F4F7F5" />
+  </a>
 </p>
 
-<br>
-
-<a href="https://github.com/harperzzzzz/Yuruicamp">
-  <img src="https://img.shields.io/badge/Featured_Project-Yuruicamp-374151?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/harperzzzzz">
-  <img src="https://img.shields.io/badge/GitHub-harperzzzzz-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
@@ -57,7 +55,7 @@
 **My Contributions**
 
 - 營地預約與裝備租借系統
-- 建置 LINE × n8n 自動化窗口 Workflow
+- 建置 n8n 自動化 Workflow × LINE窗口 
 - 於個人 Fork 的 `ECPAY/payment` branch 實作 ECPay 金流串接與付款成功回呼
 
 [View Payment Implementation →](https://github.com/harperzzzzz/Yuruicamp/tree/ECPAY/payment)
@@ -80,6 +78,8 @@ ai_agent_collaboration
 - Exploring reusable skills and structured instructions for coding agents
 - Practicing agent-assisted development with tools such as Claude Code
 - Building better habits around reviewing, validating, and understanding AI-generated code
+
+  
 ---
 
 ## 05 / CONTACT
@@ -99,7 +99,9 @@ ai_agent_collaboration
 </a>
 
 </p>
+
 ---
+
 <div align="center">
 
 <i>Keep exploring. Build deliberately.</i>
