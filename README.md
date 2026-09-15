@@ -27,13 +27,7 @@
 
 ## 02 / Tech Stack
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="Java, Python,  JavaScript, HTML, and CSS" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=vite,spring,postgres,mysql,hibernate,docker,git,github,linux,vscode,eclipse&theme=dark" alt=" Vite, Spring, PostgreSQL, Hibernate, Docker, Git, GitHub, Linux, and VS Code" />
-<br/><br/>
-</div>
 
 | Area | Technologies |
 |---|---|
@@ -43,6 +37,8 @@
 | Cloud / DevOps | GCP · AWS · Docker · Git · GitHub |
 | Integration | Firebase · ECPay · LINE Messaging API · n8n  |
 | Tools | IntelliJ IDEA · VS Code · Eclipse · Postman |
+
+---
 
 ## 03 / Featured Project
 
@@ -105,5 +101,8 @@ ai_agent_collaboration
 <div align="center">
 
 <i>Keep exploring. Build deliberately.</i>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=harperzzzzz&label=views&color=1f5c4a&style=flat" alt="profile views" />
+</p>
 
 </div>
