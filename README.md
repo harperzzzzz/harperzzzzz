@@ -1,7 +1,7 @@
 <div align="center"> 
 <p align="center"> 
 
-  <img src="./assets/profile-header.svg" width="100%" alt="YU CHEN | Java Backend Developer" /><br /> 
+  <img src="./assets/profile-header.svg" width="100%" alt="YU CHEN | Full-Stack Developer" /><br /> 
   
   <a href="https://github.com/travelwithwork-GuildHub"> 
   <img src="https://img.shields.io/badge/FEATURED%20PROJECT-GUILDHUB-6B7A35?style=for-the-badge" alt="Featured project: GuildHub" /> 
