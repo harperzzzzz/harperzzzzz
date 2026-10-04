@@ -1,37 +1,10 @@
-<svg width="1200" height="220" viewBox="0 0 1200 220"
-     xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="YU CHEN, Java Backend Developer">
+  <title>YU CHEN | Java Backend Developer</title>
+  <rect width="1200" height="220" fill="#E8E4CC"/>
 
-  <rect width="1200" height="220" fill="#0E241D"/>
+  <text x="600" y="92" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="10" fill="#2B3618">YU CHEN</text>
 
-  <text
-    x="600"
-    y="78"
-    text-anchor="middle"
-    fill="#F4F7F5"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="42"
-    font-weight="700">
-    YU CHEN
-  </text>
+  <line x1="455" y1="122" x2="745" y2="122" stroke="#6B7A35" stroke-width="1.5"/>
 
-  <line
-    x1="455"
-    y1="108"
-    x2="745"
-    y2="108"
-    stroke="#6F8F82"
-    stroke-width="1"
-    opacity="0.75"/>
-
-  <text
-    x="600"
-    y="154"
-    text-anchor="middle"
-    fill="#F4F7F5"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="19"
-    font-weight="600">
-    Java Backend Developer
-  </text>
-
+  <text x="600" y="170" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="2" fill="#4B5A27">Java Backend Developer</text>
 </svg>
