@@ -3,19 +3,19 @@
 
   <img src="./assets/profile-header.svg" width="100%" alt="YU CHEN | Java Backend Developer" /><br /> 
   
- 
+  <a href="https://github.com/travelwithwork-GuildHub"> 
+  <img src="https://img.shields.io/badge/FEATURED%20PROJECT-GUILDHUB-6B7A35?style=for-the-badge" alt="Featured project: GuildHub" /> 
+  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:uzen108jfmail@gmail.com"> 
   <img src="https://img.shields.io/badge/GMAIL-6B7A35?style=for-the-badge&logo=gmail&logoColor=D3DA9E" alt="Gmail" /> 
-  </a> 
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/harperzzzzz"> 
   <img src="https://img.shields.io/badge/GITHUB-6B7A35?style=for-the-badge&logo=github&logoColor=D3DA9E&" alt="GitHub" /> 
-  </a> 
+  </a>
 
-  <a href="https://github.com/travelwithwork-GuildHub"> 
-  <img src="https://img.shields.io/badge/FEATURED%20PROJECT-GUILDHUB-6B7A35?style=for-the-badge" alt="Featured project: GuildHub" /> 
-  </a> 
+
 
 </p> 
 
@@ -105,11 +105,11 @@ ai_agent_collaboration
 
 <a href="mailto:uzen108jfmail@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-6B7A35?style=for-the-badge&logo=gmail&logoColor=D3DA9E" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_LINKEDIN_URL">
    <img src="https://img.shields.io/badge/LinkedIn-6B7A35?style=for-the-badge&logo=linkedin&logoColor=D3DA9E" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/harperzzzzz">
   <img src="https://img.shields.io/badge/GitHub-6B7A35?style=for-the-badge&logo=github&logoColor=D3DA9E" />
@@ -117,13 +117,12 @@ ai_agent_collaboration
 
 </p>
 
-<p align="center"> <a href="mailto:你的信箱@gmail.com"> <img src="https://img.shields.io/badge/Gmail-6B7A35?style=for-the-badge&logo=gmail&logoColor=D3DA9E&labelColor=1F2612" /> </a> <a href="你的LinkedIn網址"> <img src="https://img.shields.io/badge/LinkedIn-6B7A35?style=for-the-badge&logo=linkedin&logoColor=D3DA9E&labelColor=1F2612" /> </a> <a href="https://github.com/harperzzzzz"> <img src="https://img.shields.io/badge/GitHub-6B7A35?style=for-the-badge&logo=github&logoColor=D3DA9E&labelColor=1F2612" /> </a> </p> <p align="center"><i>Keep exploring. Build deliberately.</i></p> <p align="right"> <img src="https://komarev.com/ghpvc/?username=harperzzzzz&label=views&color=6B7A35&labelColor=1F2612&style=flat" alt="profile views" /> </p>
 
 ---
 
 <div align="center">
 
-<i>Keep exploring. Build deliberately.</i>
+<h1><i>Keep exploring. Build deliberately.</i></h1>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=harperzzzzz&label=views&color=6B7A35&style=flat" alt="profile views" />
 </p>
