@@ -28,7 +28,7 @@
 
 ## 01 / ABOUT
 
-我是一名專注於累積全端開發能力與SSD規格驅動的開發者，具備AWS Certified Cloud Practitioner證照，以 **Java / Spring Boot 後端開發**為主要方向，也有Python FastAPI開發經驗，持續累積 RESTful API、關聯式資料庫、第三方服務整合與系統流程實作。
+我是一名專注於累積全端開發能力與SDD規格驅動的開發者，具備AWS Certified Cloud Practitioner證照，以 **Java / Spring Boot 後端開發**為主要方向，也有Python FastAPI開發經驗，持續累積 RESTful API、關聯式資料庫、第三方服務整合與系統流程實作。
 
 ---
 
